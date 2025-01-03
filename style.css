@@ -102,11 +102,18 @@ input:focus-visible {
 
 @media (min-width:992px) {
     body {
-        font-size: 20px !important;
+        font-size: 22px !important;
     }
+    
 }
 @media (max-width:772px) {
     .w{
        width: 100%;
+    }
+    .f{
+        font-size: 25px;
+    }
+    body{
+        font-size: 20px;
     }
 }
